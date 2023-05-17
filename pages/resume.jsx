@@ -128,7 +128,7 @@ const resume = () => {
           </ul>
         </div>
         <p className='py-1 font-bold text-blue-600 underline'>
-            <a href='https://docs.google.com/document/d/1pnGSRUWjM--hsxR5ZGqQaHVRkCS4Wt0Z/edit?usp=share_link&ouid=104840985122173252549&rtpof=true&sd=true'>
+            <a href='https://docs.google.com/document/d/1pnGSRUWjM--hsxR5ZGqQaHVRkCS4Wt0Z/edit?usp=sharing&ouid=104840985122173252549&rtpof=true&sd=true'>
                 DOWNLOAD FULL RESUME
             </a>
         </p>

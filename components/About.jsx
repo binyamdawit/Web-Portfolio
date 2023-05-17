@@ -14,16 +14,18 @@ const About = () => {
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
           Motivated software developer and a graduate from Robertson College with a Full-Stack 
-          Web Development diploma. I have a experience of software development for over a year. 
+          Web Development diploma. I have been a self-taught for almost a now year. 
           I specialize in frontend, backend, and building smart contracts as a side hobby.
           </p>
           <p className='py-2 text-gray-600'>
-            I started web developement in 2013 managing multiple e-commerce
-            websites on CMS platforms such as WordPress, BigCommerce, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+          I'm a dedciated junior software developer with a strong command of multiple programming languages 
+          and a passion for creating impactful applications. I have a solid foundation in Java, C#, JavaScript, 
+          and HTML/CSS, along with experience working with various frameworks and technologies.
+          <br />
+          Having completed my diploma in Full-Stack Web Development, I've gained practical knowledge in software development 
+          principles, data structures, and algorithms. Throughout my academic journey, I undertook several projects 
+          that involved developing web applications using HTML, CSS, and JavaScript. I also dived into backend 
+          development using Java and C#, building robust and scalable solutions.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
