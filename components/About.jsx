@@ -22,6 +22,7 @@ const About = () => {
           and a passion for creating impactful applications. I have a solid foundation in Java, C#, JavaScript, 
           and HTML/CSS, along with experience working with various frameworks and technologies.
           <br />
+          <br />
           Having completed my diploma in Full-Stack Web Development, I've gained practical knowledge in software development 
           principles, data structures, and algorithms. Throughout my academic journey, I undertook several projects 
           that involved developing web applications using HTML, CSS, and JavaScript. I also dived into backend 
