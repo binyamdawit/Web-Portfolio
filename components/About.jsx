@@ -22,7 +22,7 @@ const About = () => {
           and HTML/CSS, along with experience working with various frameworks and technologies.
           </p>
           <p className='py-2 text-gray-600'>
-          Having completed my diploma in Full-Stack Web Development, I've gained practical knowledge in software development 
+          Having completed my diploma in Full-Stack Web Development, I&#39;ve gained practical knowledge in software development 
           principles, data structures, and algorithms. Throughout my academic journey, I undertook several projects 
           that involved developing web applications using HTML, CSS, and JavaScript. I also dived into backend 
           development using Java and C#, building robust and scalable solutions.
