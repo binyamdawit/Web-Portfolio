@@ -15,11 +15,10 @@ const About = () => {
           <p className='py-2 text-gray-600'>
           Motivated software developer and a graduate from Robertson College with a Full-Stack 
           Web Development diploma. I have been a self-taught for almost a now year. 
-          I specialize in frontend, backend, and building smart contracts as a side hobby.
+          I specialize in frontend, backend, and building smart contracts.
           </p>
           <p className='py-2 text-gray-600'>
-          I'm a dedciated junior software developer with a strong command of multiple programming languages 
-          and a passion for creating impactful applications. I have a solid foundation in Java, C#, JavaScript, 
+          I have a solid foundation in Java, C#, JavaScript, 
           and HTML/CSS, along with experience working with various frameworks and technologies.
           <br />
           <br />
